@@ -1,0 +1,2 @@
+# Product_Review-NLP
+E-commerce platform specializing in electronic gadgets has seen a 200% increase in customer base over 3 years and a 25% spike in feedback. Manual review process isn't sustainable. Goal is to implement AI to classify customer sentiments (positive, negative, neutral) from reviews, surveys, social media. 
